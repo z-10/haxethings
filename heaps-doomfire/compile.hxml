@@ -1,0 +1,7 @@
+-cp src
+-js doomfire.js
+-main Main
+-lib heaps
+-lib random
+-dce full
+
